@@ -1,2 +1,2 @@
 # assoc-data-analyst-cert
-Project submited for obtaining the Associate Data Analyst certification from Datacamp
+Project submitted for obtaining the Associate Data Analyst certification from Datacamp.
